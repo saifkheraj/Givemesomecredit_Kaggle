@@ -9,5 +9,6 @@ There are different methods used to predict credit risk of customer.
 5. Neural Networks
 6. Stacking
 
-
 I have already cleaned and processed the data so you can directly just apply any model to it.
+
+For exploratory data analysis part, I used plot.ly api. 
